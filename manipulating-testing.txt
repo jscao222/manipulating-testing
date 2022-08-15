@@ -1,0 +1,34 @@
+*** Starting of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+firstdemo
+Type the 2nd string to compare:
+seconddemo
+'firstdemo' string is less than 'seconddemo'
+Type the 1st string to compare (q - to quit):
+thirddemo
+Type the 2nd string to compare:
+fourthdemo
+'thirddemo' string is greater than 'fourthdemo'
+Type the 1st string to compare (q - to quit):
+comparedemo
+Type the 2nd string to compare:
+comparedemo
+'comparedemo' string is equal to 'comparedemo'
+Type the 1st string to compare (q - to quit):
+hello
+Type the 2nd string to compare:
+hello
+'hello' string is equal to 'hello'
+Type the 1st string to compare (q - to quit):
+big
+Type the 2nd string to compare:
+small
+'big' string is less than 'small'
+Type the 1st string to compare (q - to quit):
+small
+Type the 2nd string to compare:
+big
+'small' string is greater than 'big'
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
